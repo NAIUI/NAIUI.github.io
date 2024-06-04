@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>https://NAIUI.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on NAIUI&#39;s blog</title>
+    <link>https://naiui.github.io/tags/</link>
+    <description>Recent content in Tags on NAIUI&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 04 Jun 2024 06:16:36 -0700</lastBuildDate>
     
-	<atom:link href="https://NAIUI.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naiui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>职业思考</title>
+      <link>https://naiui.github.io/tags/%E8%81%8C%E4%B8%9A%E6%80%9D%E8%80%83/</link>
+      <pubDate>Tue, 04 Jun 2024 06:16:36 -0700</pubDate>
+      
+      <guid>https://naiui.github.io/tags/%E8%81%8C%E4%B8%9A%E6%80%9D%E8%80%83/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
