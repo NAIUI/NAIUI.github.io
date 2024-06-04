@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://NAIUI.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jun 2024 06:16:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://NAIUI.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0-3年职业规划</title>
+      <link>https://NAIUI.github.io/post/blog/</link>
+      <pubDate>Tue, 04 Jun 2024 06:16:36 -0700</pubDate>
+      
+      <guid>https://NAIUI.github.io/post/blog/</guid>
+      <description>标题1 内容
+ 标题2 内容</description>
+    </item>
+    
+  </channel>
+</rss>
