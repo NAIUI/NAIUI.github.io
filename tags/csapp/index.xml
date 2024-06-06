@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAIUI&#39;s blog</title>
-    <link>https://naiui.github.io/</link>
-    <description>Recent content on NAIUI&#39;s blog</description>
+    <title>CSAPP on NAIUI&#39;s blog</title>
+    <link>https://naiui.github.io/tags/csapp/</link>
+    <description>Recent content in CSAPP on NAIUI&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 04 Jun 2024 22:15:17 -0700</lastBuildDate>
     
-	<atom:link href="https://naiui.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naiui.github.io/tags/csapp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://naiui.github.io/post/csapp/csapp-%E7%B3%BB%E7%BB%9F%E7%BA%A7io/</guid>
       <description>&lt;p&gt;CSAPP的记录-第十章&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>0-3年职业规划</title>
-      <link>https://naiui.github.io/post/blog/</link>
-      <pubDate>Tue, 04 Jun 2024 06:16:36 -0700</pubDate>
-      
-      <guid>https://naiui.github.io/post/blog/</guid>
-      <description>&lt;p&gt;程序生涯的思考与规划&lt;/p&gt;</description>
     </item>
     
   </channel>
