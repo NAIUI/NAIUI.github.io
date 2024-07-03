@@ -6,10 +6,19 @@
     <description>Recent content on NAIUI&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 02 Jul 2024 06:12:46 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 01:04:37 -0700</lastBuildDate>
     
 	<atom:link href="https://naiui.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C&#43;&#43;必知必会</title>
+      <link>https://naiui.github.io/post/c&#43;&#43;%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/</link>
+      <pubDate>Wed, 03 Jul 2024 01:04:37 -0700</pubDate>
+      
+      <guid>https://naiui.github.io/post/c&#43;&#43;%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A/</guid>
+      <description>&lt;p&gt;C++必知必会&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>C&#43;&#43;工具和调试</title>
